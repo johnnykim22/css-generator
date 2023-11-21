@@ -1,0 +1,15 @@
+Functional Requirments:
+
+-There must be a sample for css output 
+
+-There must be a genereted css code
+
+-The user must be ablt to copy the css code
+
+
+
+Non-Functional Requirments:
+
+-The styling should be attractive
+-The webpage should be very fast so the user get the updates in real-time
+-The fonts - colors -thems should all be clear and attractive
