@@ -1,0 +1,5 @@
+-When I entered the website , I found a default image with some fields next to it
+-I was able to type text in the fields and the text appeared in the meme
+-There was an option to prompt an AI generated image
+-There was an option to download 
+-When this happend => this happend , and I was ablt to do this 
